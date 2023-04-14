@@ -29,4 +29,3 @@ The following repository provides a basic framework of how to design an automati
 
 ## Notes
 •	Using the OpenCV library to apply denoising/thresholding turned out to worsen the performance of text extraction. Therefore, the code has been commented out.
-![image](https://user-images.githubusercontent.com/47938735/231975359-6eb27c62-441e-4d11-8e61-7419d88cd474.png)
