@@ -10,12 +10,12 @@ The following repository provides a basic framework of how to design an automati
 5.	Install python packages from ‘requirement.txt’ file. 
 
 ## Files
-•	main.py: Backbone of the entire KYC process.
-•	google_drive.py: Download HKID and address proof images from google drive
-•	extract_id.py: Extract text from the downloaded HKID image using Google Vision API. 
-•	extract_address.py: Extract text from the downloaded address proof image using Google Vision API. 
-•	verify_regex.py: Verify the extracted texts using regex.
-•	database.py: Save the verified texts to MySQL database
+1. main.py: Backbone of the entire KYC process.
+2. google_drive.py: Download HKID and address proof images from google drive
+3. extract_id.py: Extract text from the downloaded HKID image using Google Vision API. 
+4. extract_address.py: Extract text from the downloaded address proof image using Google Vision API. 
+5. verify_regex.py: Verify the extracted texts using regex.
+6. database.py: Save the verified texts to MySQL database
 
 ## Code Explanation
 1.	The code starts and ends at main.py.
