@@ -1,0 +1,65 @@
+# From Local #
+
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+ehthumbs.db
+Thumbs.db
+credentials.json
+__pycache__/database.cpython-310.pyc
+__pycache__/extract_address.cpython-310.pyc
+__pycache__/extract_id.cpython-310.pyc
+__pycache__/google_drive.cpython-310.pyc
+__pycache__/sample_address_proof.cpython-310.pyc
+__pycache__/sample_id.cpython-310.pyc
+__pycache__/verify_regex.cpython-310.pyc
+client_secrets.json
+token.json
+[Question 1 KYC and AML] Code Usage Instructions.pdf
+Archive/[Question 1 KYC and AML] Code Usage Instructions.pdf
+Archive/database.py
+Archive/extract_address.py
+Archive/extract_id.py
+Archive/google_drive.py
+Archive/main.py
+Archive/requirement.txt
+Archive/verify_regex.py
+Archive/image_data/sample_address_proof.png
+Archive/image_data/sample_id.png
+Archive/text_data/address.json
+Archive/text_data/id.json
